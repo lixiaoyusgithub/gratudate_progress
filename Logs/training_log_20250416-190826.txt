@@ -1,0 +1,6 @@
+Normal JSON file: N_IST_Extract_paths_byour_front.json
+Parkinsonian JSON file: P_IST_Extract_paths_byour_front.json
+Epoch 1/50, Train Loss: 1.3357, Train Acc: 0.0000, Test Loss: 1.3071, Test Acc: 0.0000
+Epoch 2/50, Train Loss: 1.2884, Train Acc: 0.0000, Test Loss: 1.2685, Test Acc: 0.0000
+Epoch 3/50, Train Loss: 1.2508, Train Acc: 0.0000, Test Loss: 1.2317, Test Acc: 0.0000
+Epoch 4/50, Train Loss: 1.2144, Train Acc: 0.0000, Test Loss: 1.1958, Test Acc: 0.0000

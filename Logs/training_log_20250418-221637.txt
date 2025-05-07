@@ -1,0 +1,2 @@
+Normal JSON file: N_IST_Extract_paths.json
+Parkinsonian JSON file: P_IST_Extract_paths.json
